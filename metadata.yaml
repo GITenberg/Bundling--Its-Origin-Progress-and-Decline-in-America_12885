@@ -1,0 +1,25 @@
+_repo: Bundling--Its-Origin-Progress-and-Decline-in-America_12885
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stiles, Henry Reed
+    birthdate: 1832
+    deathdate: 1909
+    gutenberg_agent_id: '4693'
+    url: http://www.gutenberg.org/2009/agents/4693
+description: ''
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bundling (Courtship)'
+- !lcsh 'New England -- Social life and customs'
+- !lcc 'GT'
+- GITenberg
+title: Bundling; Its Origin, Progress and Decline in America
+url: http://www.gutenberg.org/ebooks/12885
